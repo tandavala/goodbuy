@@ -61,5 +61,9 @@ sudo apt-get install -y vim curl python-software-properties
 sudo apt-get install -y python-dev, python-pip
 sudo apt-get install -y libkrb5-dev
 
+# Installing JDK and JRE
+sudo apt-get install -y default-jre
+sudo apt-get install -y default-jdk
+
 
 
