@@ -5,7 +5,7 @@
  Este script estou desenvolvendo para sistemas operativos linux propriamente O **Linux Mint**, e o ambiente que o script produz é voltado à programação web e mobile (Hibrido/Native), os pacotes e os software que os script install estarão listados conforme a lista apresentado em baixo.
 
  - Node.js
- - NVM
+ - React js CLI
  - Nodemon
  - MongoDB
  - MariaDB
