@@ -82,3 +82,6 @@ sudo apt-get install -y cpu-checker
 sudo apt-get install -y qemu-kvm libvirt-bin ubuntu-vm-builder bridge-utils
 sudo apt-get install -y virt-manager
 sudo apt-get install -y lib32z1 lib32ncurses5 lib32bz2-1.0 lib32stdc++6
+
+# Calibre - Ebook reader and converter
+sudo -v && wget -nv -O- https://raw.githubusercontent.com/kovidgoyal/calibre/master/setup/linux-installer.py | sudo python -c "import sys; main=lambda:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main()"
