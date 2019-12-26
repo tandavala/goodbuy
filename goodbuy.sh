@@ -65,5 +65,8 @@ sudo apt-get install -y libkrb5-dev
 sudo apt-get install -y default-jre
 sudo apt-get install -y default-jdk
 
+# Gimp Image Editor
+sudo apt-get install -y gimp gimp-data gimp-plugin-registry gimp-data-extras
+
 
 
