@@ -30,6 +30,9 @@ npm install -g grunt-cli
 # Bower - a dependency manager
 npm install -g bower
 
+# Gulp - an automated task runner
+npm install -g gulp-cli
+
 # Installing mongoDB
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 2930ADAE8CAF5059EE73BB4B58712A2291FA4AD5
 sudo apt-get update
