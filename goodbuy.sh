@@ -68,5 +68,6 @@ sudo apt-get install -y default-jdk
 # Gimp Image Editor
 sudo apt-get install -y gimp gimp-data gimp-plugin-registry gimp-data-extras
 
-
+# Archive Extractors
+sudo apt-get install -y unace unrar zip unzip p7zip-full p7zip-rar
 
