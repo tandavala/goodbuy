@@ -56,6 +56,10 @@ mysql -V
 sudo apt-get update
 sudo apt-get install -y git xclip
 
+# Vim, Curl, Python - Some random useful stuff
+sudo apt-get install -y vim curl python-software-properties
+sudo apt-get install -y python-dev, python-pip
+sudo apt-get install -y libkrb5-dev
 
 
 
