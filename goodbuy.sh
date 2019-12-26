@@ -43,4 +43,9 @@ sudo apt update
 sudo apt install mariadb-server
 mysql -V
 
+# Git - a version control system
+sudo apt-get update
+sudo apt-get install -y git xclip
+
+
 
