@@ -7,6 +7,7 @@
  - Node.js
  - React js CLI
  - Nodemon
+ - Firebase CLI
  - MongoDB
  - MariaDB
  - PostGreSQL
