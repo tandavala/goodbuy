@@ -10,7 +10,6 @@
  - MongoDB
  - MariaDB
  - PostGreSQL
- - Forever
  - git
  - grunt
  - bower
