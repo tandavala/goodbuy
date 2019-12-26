@@ -1,8 +1,8 @@
 # goodbuy
  
- Goodbuy script eu desenvolvi quando a minha máquina principal corropeu e me senti obrigado a formatar e configurar o meu ambiente de produção, instalar os pacotes, os software que eu uso em produção de forma manual é chato e cansativo então resolvi desenvolver o goodbuy script.
+ Desenvolvi este script quando a minha máquina principal corrompeu e me senti obrigado a formatar a máquina e configurar o meu ambiente de produção, instalar os pacotes, os software que eu uso em produção de forma manual é chato e cansativo então resolvi desenvolver o goodbuy script.
 
- Este script estou desenvolvendo para sistemas operativos linux propriamente O **Linux Mint**, e o ambiente que o script produz é voltado à programação web e mobile (Hibrido/Native), os pacotes e os software que os script install estarão listados conforme a lista apresentado em baixo.
+ A ideia é desenvolver um script simples e utils que de forma rápida configura uma máquina pronta para produzir software para web e mobile (Hibrido/Nativo), Este script estou desenvolvendo para sistemas operativos linux propriamente O **Linux Mint**, e o ambiente que o script produz é voltado à programação web e mobile (Hibrido/Native), os pacotes e os software que os script install estarão listados conforme a lista apresentado em baixo.
 
  - Node.js
  - React js CLI
