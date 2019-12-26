@@ -76,3 +76,9 @@ sudo apt-get install -y filezilla
 
 # Sticky Notes
 sudo apt-get install -y xpad
+
+# KVM acceleration and cpu checker
+sudo apt-get install -y cpu-checker
+sudo apt-get install -y qemu-kvm libvirt-bin ubuntu-vm-builder bridge-utils
+sudo apt-get install -y virt-manager
+sudo apt-get install -y lib32z1 lib32ncurses5 lib32bz2-1.0 lib32stdc++6
