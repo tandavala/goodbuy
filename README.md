@@ -20,9 +20,7 @@
  - gimp
  - zip unzip and rar
  - filezilla
- - TLP
  - xpad sticky notes
- - cpu checker
  - kvm acceleration
  - Calibre Ebook Reader 
 
