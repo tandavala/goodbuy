@@ -24,6 +24,9 @@ npm install -g nodemon
 npm install create-react-app -g
 create-react-app -v
 
+# Grunt - an automated task runner
+npm install -g grunt-cli
+
 # Installing mongoDB
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 2930ADAE8CAF5059EE73BB4B58712A2291FA4AD5
 sudo apt-get update
@@ -46,6 +49,7 @@ mysql -V
 # Git - a version control system
 sudo apt-get update
 sudo apt-get install -y git xclip
+
 
 
 
